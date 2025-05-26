@@ -1,2 +1,2 @@
-# Mod Title V1.0
+# Windmill Isle Night Extended V1.0
 - Initial Release
