@@ -24,3 +24,4 @@ Known Issues:
 When transitioning over to the 1-2 portion of the stage, the sound effect of the saws that appear in the small alley outside the battle arena will randomly start to play faintly, even if they haven't been activated through the crank ~~and they are so ridiculously loud when eventually switched on~~. From testing it seems to happen if the game is paused before entering that portion, however this happens if you pause in the original stage so I am not sure if there ***is*** a fix for it.
 
 
+__Credits__
