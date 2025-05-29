@@ -7,7 +7,7 @@ Windmill Isle's DLC night time stages would seem to work well if their stage lay
 
 This mod expands on Windmill Isle Night Act 1 by combining the stage with its two DLC level layouts. After playing through the original stage and reaching the end, you will be transitioned to the stage designs of Act 1-2 and Act 1-3 - kind of like how Windmill Isle Day Act 1-2 is designed, but opposite. 
 
-When comparing this mod to the levels on their own, there were only some very, very small differences in terms of camera behaviour that I noticed within the battle arena, which are barely noticeable. So for that to be the only contrast and for my first night stage mod, I feel like I have done well with this. That being said, if anyone happens to run into any issues that I don't know about, please do let me know.
+When comparing this mod to the levels on their own, there were only some very, very small differences in terms of camera behaviour that I noticed within the battle arena. For that to be the only contrast and for my first night stage mod, I feel like I have done well with this. That being said, if anyone happens to run into any issues that I don't know about, please do let me know.
 
 ## Layout Confugration
 
