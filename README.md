@@ -26,4 +26,4 @@ When transitioning over to the 1-2 stage layout, the sound effect of the saws th
 
 ## Credits
 - **TheKoldK1**: Developing the mod
-- **Exe.Qution**: Stage testing
+- **ExeQutionn**: Stage testing
